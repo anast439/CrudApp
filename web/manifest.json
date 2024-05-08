@@ -1,6 +1,6 @@
 {
-    "name": "crud_app",
-    "short_name": "crud_app",
+    "name": "flutter_to_do_list",
+    "short_name": "flutter_to_do_list",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

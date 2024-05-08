@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537771971328",
+    "project_id": "crudapp-df2b8",
+    "storage_bucket": "crudapp-df2b8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537771971328:android:b8bf5eced29d7b95a159e5",
+        "android_client_info": {
+          "package_name": "com.example.flutter_to_do_list"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuoSv2lZx2oNf_rIiN2SfvmOPIVJ_rybI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
